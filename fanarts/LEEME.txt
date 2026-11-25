@@ -1,0 +1,5 @@
+Sube aquí los fanarts (PNG, JPG, WEBP o GIF).
+El nombre del archivo es el crédito que se muestra en la galería.
+Ejemplo:  @nombredelartista.png  ->  "Por @nombredelartista"
+Si un artista tiene varios: @nombre-2.png, @nombre-3.png
+Este archivo de texto no se muestra en la página.
